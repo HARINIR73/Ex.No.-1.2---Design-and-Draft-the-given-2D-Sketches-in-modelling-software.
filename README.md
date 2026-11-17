@@ -46,7 +46,9 @@
  
  
  ## SKETCH
- ![Uploading Screenshot 2026-11-17 213801.png…]()
+ <img width="583" height="656" alt="Screenshot 2026-11-17 213801" src="https://github.com/user-attachments/assets/d6646f13-8f97-42af-9c9c-019db1a3a82c" />
+ 
+
 
 
 
